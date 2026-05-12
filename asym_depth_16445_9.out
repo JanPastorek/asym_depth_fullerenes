@@ -1,0 +1,6 @@
+Task 9 processing n_c=120 with JULIA_NUM_THREADS=16
+n_c=120: no IPR fullerenes found
+Total tasks: 0
+Threads: 16
+Saved: results/asym_depth_parts/ipr_depth_n120.csv
+Done n_c=120 -> results/asym_depth_parts/ipr_depth_n120.csv

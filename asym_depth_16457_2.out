@@ -1,0 +1,55 @@
+Task 2 processing n_c=106 with JULIA_NUM_THREADS=16
+n_c=106: tasks=1233
+Total tasks: 1233
+Threads: 16
+Completed 850 / 1233
+Completed 775 / 1233
+Completed 625 / 1233
+Completed 550 / 1233
+Completed 700 / 1233
+Completed 475 / 1233
+Completed 325 / 1233
+Completed 400 / 1233
+Completed 250 / 1233
+Completed 1175 / 1233
+Completed 175 / 1233
+Completed 25 / 1233
+Completed 1100 / 1233
+Completed 1025 / 1233
+Completed 100 / 1233
+Completed 950 / 1233
+Completed 875 / 1233
+Completed 650 / 1233
+Completed 800 / 1233
+Completed 500 / 1233
+Completed 350 / 1233
+Completed 575 / 1233
+Completed 725 / 1233
+Completed 275 / 1233
+Completed 50 / 1233
+Completed 425 / 1233
+Completed 1200 / 1233
+Completed 525 / 1233
+Completed 375 / 1233
+Completed 200 / 1233
+Completed 1125 / 1233
+Completed 1050 / 1233
+Completed 125 / 1233
+Completed 900 / 1233
+Completed 975 / 1233
+Completed 750 / 1233
+Completed 675 / 1233
+Completed 600 / 1233
+Completed 825 / 1233
+Completed 450 / 1233
+Completed 300 / 1233
+Completed 75 / 1233
+Completed 1225 / 1233
+Completed 1075 / 1233
+Completed 1150 / 1233
+Completed 925 / 1233
+Completed 225 / 1233
+Completed 150 / 1233
+Completed 1000 / 1233
+Saved: results/asym_depth_parts/ipr_depth_n106.csv
+Done n_c=106 -> results/asym_depth_parts/ipr_depth_n106.csv

@@ -1,0 +1,7 @@
+/mnt/data/home/japake298/project/asym_depth/scripts/../buckygen-1.1/buckygen -I -g 120d 
+Number of fullerenes generated with 62 vertices: 10774
+10774 fullerenes written to stdout
+/mnt/data/home/japake298/project/asym_depth/scripts/../buckygen-1.1/buckygen -I -d -g 120d 
+Number of fullerenes generated with 62 vertices: 10774
+10774 fullerenes written to stdout
+slurmstepd: error: *** JOB 16457 ON cn03 CANCELLED AT 2026-03-19T15:41:33 DUE TO TIME LIMIT ***

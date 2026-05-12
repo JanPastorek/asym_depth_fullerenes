@@ -1,0 +1,30 @@
+Task 0 processing n_c=102 with JULIA_NUM_THREADS=16
+n_c=102: tasks=616
+Total tasks: 616
+Threads: 16
+Completed 275 / 616
+Completed 200 / 616
+Completed 550 / 616
+Completed 125 / 616
+Completed 475 / 616
+Completed 50 / 616
+Completed 400 / 616
+Completed 325 / 616
+Completed 250 / 616
+Completed 100 / 616
+Completed 600 / 616
+Completed 175 / 616
+Completed 225 / 616
+Completed 25 / 616
+Completed 450 / 616
+Completed 375 / 616
+Completed 525 / 616
+Completed 300 / 616
+Completed 150 / 616
+Completed 425 / 616
+Completed 575 / 616
+Completed 75 / 616
+Completed 500 / 616
+Completed 350 / 616
+Saved: results/asym_depth_parts/ipr_depth_n102.csv
+Done n_c=102 -> results/asym_depth_parts/ipr_depth_n102.csv

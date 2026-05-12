@@ -1,0 +1,17 @@
+  Activating new project at `~/project/asym_depth`
+ERROR: LoadError: ArgumentError: Package GraphIO not found in current path.
+- Run `import Pkg; Pkg.add("GraphIO")` to install the GraphIO package.
+Stacktrace:
+ [1] macro expansion
+   @ ./loading.jl:2296 [inlined]
+ [2] macro expansion
+   @ ./lock.jl:273 [inlined]
+ [3] __require(into::Module, mod::Symbol)
+   @ Base ./loading.jl:2271
+ [4] #invoke_in_world#3
+   @ ./essentials.jl:1089 [inlined]
+ [5] invoke_in_world
+   @ ./essentials.jl:1086 [inlined]
+ [6] require(into::Module, mod::Symbol)
+   @ Base ./loading.jl:2260
+in expression starting at /mnt/data/home/japake298/project/asym_depth/scripts/calculate_fullerene_asym_depth_hpc.jl:4

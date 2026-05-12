@@ -1,0 +1,7 @@
+/mnt/data/home/japake298/project/asym_depth/scripts/../buckygen-1.1/buckygen -I -g 110d 
+Number of fullerenes generated with 57 vertices: 2355
+2355 fullerenes written to stdout
+/mnt/data/home/japake298/project/asym_depth/scripts/../buckygen-1.1/buckygen -I -d -g 110d 
+Number of fullerenes generated with 57 vertices: 2355
+2355 fullerenes written to stdout
+  Activating project at `~/project/asym_depth`

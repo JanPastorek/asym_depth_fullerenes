@@ -1,0 +1,38 @@
+Task 1 processing n_c=104 with JULIA_NUM_THREADS=16
+n_c=104: tasks=823
+Total tasks: 823
+Threads: 16
+Completed 675 / 823
+Completed 775 / 823
+Completed 725 / 823
+Completed 625 / 823
+Completed 575 / 823
+Completed 525 / 823
+Completed 475 / 823
+Completed 425 / 823
+Completed 375 / 823
+Completed 325 / 823
+Completed 225 / 823
+Completed 125 / 823
+Completed 175 / 823
+Completed 275 / 823
+Completed 25 / 823
+Completed 75 / 823
+Completed 700 / 823
+Completed 650 / 823
+Completed 750 / 823
+Completed 450 / 823
+Completed 350 / 823
+Completed 550 / 823
+Completed 600 / 823
+Completed 250 / 823
+Completed 150 / 823
+Completed 800 / 823
+Completed 500 / 823
+Completed 400 / 823
+Completed 300 / 823
+Completed 50 / 823
+Completed 100 / 823
+Completed 200 / 823
+Saved: results/asym_depth_parts/ipr_depth_n104.csv
+Done n_c=104 -> results/asym_depth_parts/ipr_depth_n104.csv
