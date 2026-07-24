@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Editor / OS
+.DS_Store
+# HPC job logs (already-committed ones are kept; this stops new ones)
+*.err
+*.out
+merge_asym_depth_*.err
+merge_asym_depth_*.out

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Code for: Extremal Asymmetric Depth on Surfaces and Hidden Almost-Global Symmetries in IPR Fullerenes"
+authors:
+  - family-names: Pastorek
+    given-names: Ján
+    orcid: "https://orcid.org/0000-0001-8237-1275"
+    affiliation: "Comenius University, Bratislava"
+    email: jan.pastorek@fmph.uniba.sk
+license: MIT
+repository-code: "https://github.com/JanPastorek/asym_depth_fullerenes"
+keywords:
+  - partial automorphisms
+  - asymmetric depth
+  - fullerenes
+  - IPR fullerenes
+  - chemical graph theory
