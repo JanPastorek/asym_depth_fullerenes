@@ -76,14 +76,6 @@ python witness.py                # heuristic search for a completion (optional)
 admits the stated rank-17 partial automorphism localised behind a 2-edge
 interface. Expected output ends with `ALL CHECKS PASSED`.
 
-## Not included here (please add before archiving)
-
-The large **asymmetric-depth census** of IPR fullerenes and their duals up to
-`n = 118` (the `nauty`/`Traces` pipeline driven from Julia, ~4 CPU-months,
-producing the paper's main table) is **not** part of this repository. Add that
-code (and, ideally, the generated depth tables) before depositing, so the
-deposit matches every computational claim in the paper.
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
